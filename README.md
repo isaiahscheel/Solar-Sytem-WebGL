@@ -53,9 +53,9 @@ Saturn
 
 ## Authors
 
-* **Isaiah Scheel** - [Isaiaher] (https://github.com/Isaiaher)
+* **Isaiah Scheel** - [Isaiaher](https://github.com/Isaiaher)
 
-* **Justin DeMattos** - [demattjd] (https://github.com/demattjd)
+* **Justin DeMattos** - [demattjd](https://github.com/demattjd)
 
 * **Taylor Lunde** - No public Github
 
