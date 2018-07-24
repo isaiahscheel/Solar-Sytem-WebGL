@@ -7,11 +7,11 @@ The code uploaded is mostly for reference and understanding on how we made the p
 
 ### Prerequisites
 
-Make sure your computer can run WebGL. Visit [this] (https://cs.plu.edu/courses/cs412/current/webgl-test/index.html) page to see if your browser is compatible. 
+Make sure your computer can run WebGL. Visit [this](https://cs.plu.edu/courses/cs412/current/webgl-test/index.html) page to see if your browser is compatible. 
 
 ##Images
 
-![alt text](https://imgur.com/a/SvLksUZ "Mercury")
+![alt text](https://i.imgur.com/EAPxK9Y.png "Mercury")
 
 ## Authors
 
