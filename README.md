@@ -9,9 +9,47 @@ The code uploaded is mostly for reference and understanding on how we made the p
 
 Make sure your computer can run WebGL. Visit [this](https://cs.plu.edu/courses/cs412/current/webgl-test/index.html) page to see if your browser is compatible. 
 
-##Images
+## Images
+
+```
+Click on the Blast Off Button to travel to Space!
+```
+![alt text](https://i.imgur.com/naFgsAh.png "Home Screen")
+
+```
+Over View of the Solar System
+```
+![alt text](https://i.imgur.com/dD76JnB.png "Solar System")
+
+```
+Earth and the Moon
+```
+![alt text](https://i.imgur.com/X9g2Nwg.png "Earth")
+
+```
+Mercury
+```
 
 ![alt text](https://i.imgur.com/EAPxK9Y.png "Mercury")
+
+```
+The Sun (Not to Scale)
+```
+
+![alt text](https://i.imgur.com/SOy7gzL.jpg "Sun")
+
+```
+The Moon
+```
+
+![alt text](https://i.imgur.com/t04AGpJ.png "Moon")
+
+```
+Saturn
+```
+
+![alt text](https://i.imgur.com/E3YitMv.jpg "Saturn")
+
 
 ## Authors
 
