@@ -3,7 +3,7 @@ Solar System model made with WebGL and in collaboration with Justin DeMattos and
 
 The goal in this project was to utilize the skills we learned in our CS 412 Computer Gaphics course. We learned about WebGL and the basics on computer graphics. We utilized shaders, textures, and drawing polygons. We did rely on one materiel object for Saturn to be able to get the rings. The textures are from NASA. We ended up using a sky-sphere for the background of stars.
 
-The soalr system is almost to scale. The orbits are ellipses even though it is hard to tell. The planets move at speeds accurately relative to one another and the Earth is even on its axis. The sun is not to scale due to the fact that it would be too large compared to everything else. Please forgive us.
+The solar system is almost to scale. The orbits are ellipses even though it is hard to tell. The planets move at speeds accurately relative to one another and the Earth is even on its axis. The sun is not to scale due to the fact that it would be too large compared to everything else. Please forgive us.
 
 ## Getting Started
 
